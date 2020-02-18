@@ -32,6 +32,8 @@
 npm-debug.log
 yarn-error.log
 testem.log
+ErrorLogger.txt
+RequestLogger.txt
 /typings
 
 # System Files
