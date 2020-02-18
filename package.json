@@ -1,0 +1,14 @@
+{
+  "name": "wanderlustms",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "~4.16.0",
+    "mongoose": "^5.4.17"
+  }
+}

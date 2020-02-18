@@ -1,0 +1,1 @@
+//implement booking bean class
